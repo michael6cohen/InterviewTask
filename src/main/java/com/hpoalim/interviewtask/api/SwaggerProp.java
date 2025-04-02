@@ -12,7 +12,7 @@ public interface SwaggerProp {
     String TASK_NAME_EX = "Sample Task";
 
     String NUMBER_OF_PROCESSES_DESC = "The number of sub processes to be created for the task";
-    String NUMBER_OF_PROCESSES_EX = "10";
+    String NUMBER_OF_PROCESSES_EX = "100";
 
     String TASK_ID_DESC = "The ID of the task to retrieve";
     String TASK_ID_EX = "63047d2e-c7a4-4f12-8609-47f64bc34105";
